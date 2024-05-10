@@ -1,0 +1,356 @@
+{
+    "Markers": [
+        {
+            "deleted": false,
+            "endDatetime": "2024-04-24T10:27:00.703894-04:00",
+            "extras": {
+            },
+            "index": 1,
+            "label": "videos\\1 excited\\3 general\\ratatChaseScene.mp4",
+            "originalEndDatetime": "2024-04-24T10:27:00.706000-04:00",
+            "originalStartDatetime": "2024-04-24T10:27:00.706000-04:00",
+            "port": "psychopy",
+            "startDatetime": "2024-04-24T10:27:00.703894-04:00",
+            "type": "instance",
+            "uuid": "b7d85f1a-8551-48c4-bbe3-77bdba64437e",
+            "value": "videos\\1 excited\\3 general\\ratatChaseScene.mp4"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-04-24T10:28:09.647010-04:00",
+            "extras": {
+            },
+            "index": 2,
+            "label": "rating",
+            "originalEndDatetime": "2024-04-24T10:28:09.644000-04:00",
+            "originalStartDatetime": "2024-04-24T10:28:09.644000-04:00",
+            "port": "psychopy",
+            "startDatetime": "2024-04-24T10:28:09.647010-04:00",
+            "type": "instance",
+            "uuid": "f3cf6800-1b35-4d3a-b321-7ff4e7fbce2d",
+            "value": "rating"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-04-24T10:28:25.334211-04:00",
+            "extras": {
+            },
+            "index": 3,
+            "label": "neutralVideo",
+            "originalEndDatetime": "2024-04-24T10:28:25.336000-04:00",
+            "originalStartDatetime": "2024-04-24T10:28:25.336000-04:00",
+            "port": "psychopy",
+            "startDatetime": "2024-04-24T10:28:25.334211-04:00",
+            "type": "instance",
+            "uuid": "05936131-494c-4f89-ac87-ef4082c061a6",
+            "value": "neutralVideo"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-04-24T10:29:30.533909-04:00",
+            "extras": {
+            },
+            "index": 4,
+            "label": "videos\\2 happy\\scooby.mp4",
+            "originalEndDatetime": "2024-04-24T10:29:30.534000-04:00",
+            "originalStartDatetime": "2024-04-24T10:29:30.534000-04:00",
+            "port": "psychopy",
+            "startDatetime": "2024-04-24T10:29:30.533909-04:00",
+            "type": "instance",
+            "uuid": "298c4f03-0f11-405b-8887-c9ca95441f72",
+            "value": "videos\\2 happy\\scooby.mp4"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-04-24T10:30:30.746019-04:00",
+            "extras": {
+            },
+            "index": 5,
+            "label": "rating",
+            "originalEndDatetime": "2024-04-24T10:30:30.749000-04:00",
+            "originalStartDatetime": "2024-04-24T10:30:30.749000-04:00",
+            "port": "psychopy",
+            "startDatetime": "2024-04-24T10:30:30.746019-04:00",
+            "type": "instance",
+            "uuid": "5eb29edd-65c4-4957-be0a-c0f2e3bfc8ad",
+            "value": "rating"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-04-24T10:30:39.784338-04:00",
+            "extras": {
+            },
+            "index": 6,
+            "label": "neutralVideo",
+            "originalEndDatetime": "2024-04-24T10:30:39.782000-04:00",
+            "originalStartDatetime": "2024-04-24T10:30:39.782000-04:00",
+            "port": "psychopy",
+            "startDatetime": "2024-04-24T10:30:39.784338-04:00",
+            "type": "instance",
+            "uuid": "1a102c2b-cc3f-475d-a69a-0af6690dca6a",
+            "value": "neutralVideo"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-04-24T10:31:45.081521-04:00",
+            "extras": {
+            },
+            "index": 7,
+            "label": "videos\\3 motivated\\motivationalAuthor.mp4",
+            "originalEndDatetime": "2024-04-24T10:31:45.080000-04:00",
+            "originalStartDatetime": "2024-04-24T10:31:45.080000-04:00",
+            "port": "psychopy",
+            "startDatetime": "2024-04-24T10:31:45.081521-04:00",
+            "type": "instance",
+            "uuid": "b1f1992e-4ccc-4f3e-95b8-2f7e99a3907d",
+            "value": "videos\\3 motivated\\motivationalAuthor.mp4"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-04-24T10:32:52.921814-04:00",
+            "extras": {
+            },
+            "index": 8,
+            "label": "rating",
+            "originalEndDatetime": "2024-04-24T10:32:52.919000-04:00",
+            "originalStartDatetime": "2024-04-24T10:32:52.919000-04:00",
+            "port": "psychopy",
+            "startDatetime": "2024-04-24T10:32:52.921814-04:00",
+            "type": "instance",
+            "uuid": "f3b3e3ca-5b71-4bcd-8e83-64ecca526c40",
+            "value": "rating"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-04-24T10:33:02.789505-04:00",
+            "extras": {
+            },
+            "index": 9,
+            "label": "neutralVideo",
+            "originalEndDatetime": "2024-04-24T10:33:02.789000-04:00",
+            "originalStartDatetime": "2024-04-24T10:33:02.789000-04:00",
+            "port": "psychopy",
+            "startDatetime": "2024-04-24T10:33:02.789505-04:00",
+            "type": "instance",
+            "uuid": "f9fc4410-0c34-43dd-abe8-7e651f188eb7",
+            "value": "neutralVideo"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-04-24T10:34:08.082859-04:00",
+            "extras": {
+            },
+            "index": 10,
+            "label": "videos\\4 relaxed\\2 nature\\waterfall.mp4",
+            "originalEndDatetime": "2024-04-24T10:34:08.084000-04:00",
+            "originalStartDatetime": "2024-04-24T10:34:08.084000-04:00",
+            "port": "psychopy",
+            "startDatetime": "2024-04-24T10:34:08.082859-04:00",
+            "type": "instance",
+            "uuid": "58ac496c-97e4-445c-ae12-b1ee85846673",
+            "value": "videos\\4 relaxed\\2 nature\\waterfall.mp4"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-04-24T10:35:08.649177-04:00",
+            "extras": {
+            },
+            "index": 11,
+            "label": "rating",
+            "originalEndDatetime": "2024-04-24T10:35:08.652000-04:00",
+            "originalStartDatetime": "2024-04-24T10:35:08.652000-04:00",
+            "port": "psychopy",
+            "startDatetime": "2024-04-24T10:35:08.649177-04:00",
+            "type": "instance",
+            "uuid": "5c3f3333-eb2f-451a-8f80-ca1ed475aa76",
+            "value": "rating"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-04-24T10:35:15.070998-04:00",
+            "extras": {
+            },
+            "index": 12,
+            "label": "neutralVideo",
+            "originalEndDatetime": "2024-04-24T10:35:15.070000-04:00",
+            "originalStartDatetime": "2024-04-24T10:35:15.070000-04:00",
+            "port": "psychopy",
+            "startDatetime": "2024-04-24T10:35:15.070998-04:00",
+            "type": "instance",
+            "uuid": "5694d4df-8d02-454a-80cb-6b924308c4da",
+            "value": "neutralVideo"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-04-24T10:36:20.348989-04:00",
+            "extras": {
+            },
+            "index": 13,
+            "label": "videos\\5 sad\\1 animals\\saddogs.mp4",
+            "originalEndDatetime": "2024-04-24T10:36:20.349000-04:00",
+            "originalStartDatetime": "2024-04-24T10:36:20.349000-04:00",
+            "port": "psychopy",
+            "startDatetime": "2024-04-24T10:36:20.348989-04:00",
+            "type": "instance",
+            "uuid": "d3fa245a-62e4-4a89-a63f-e8a02af87eef",
+            "value": "videos\\5 sad\\1 animals\\saddogs.mp4"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-04-24T10:37:23.087921-04:00",
+            "extras": {
+            },
+            "index": 14,
+            "label": "rating",
+            "originalEndDatetime": "2024-04-24T10:37:23.085000-04:00",
+            "originalStartDatetime": "2024-04-24T10:37:23.085000-04:00",
+            "port": "psychopy",
+            "startDatetime": "2024-04-24T10:37:23.087921-04:00",
+            "type": "instance",
+            "uuid": "f5f52eb1-e1a7-4ebb-9410-a2c4fd81d1bc",
+            "value": "rating"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-04-24T10:37:29.939424-04:00",
+            "extras": {
+            },
+            "index": 15,
+            "label": "neutralVideo",
+            "originalEndDatetime": "2024-04-24T10:37:29.938000-04:00",
+            "originalStartDatetime": "2024-04-24T10:37:29.938000-04:00",
+            "port": "psychopy",
+            "startDatetime": "2024-04-24T10:37:29.939424-04:00",
+            "type": "instance",
+            "uuid": "3941e43e-b2b3-4e24-892a-43c1ac2fe3eb",
+            "value": "neutralVideo"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-04-24T10:38:35.154657-04:00",
+            "extras": {
+            },
+            "index": 16,
+            "label": "videos\\6 horror\\conjuring.mp4",
+            "originalEndDatetime": "2024-04-24T10:38:35.151000-04:00",
+            "originalStartDatetime": "2024-04-24T10:38:35.151000-04:00",
+            "port": "psychopy",
+            "startDatetime": "2024-04-24T10:38:35.154657-04:00",
+            "type": "instance",
+            "uuid": "e6d943bc-c5d1-4b65-b3e0-4f5ca785693d",
+            "value": "videos\\6 horror\\conjuring.mp4"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-04-24T10:39:40.049168-04:00",
+            "extras": {
+            },
+            "index": 17,
+            "label": "rating",
+            "originalEndDatetime": "2024-04-24T10:39:40.052000-04:00",
+            "originalStartDatetime": "2024-04-24T10:39:40.052000-04:00",
+            "port": "psychopy",
+            "startDatetime": "2024-04-24T10:39:40.049168-04:00",
+            "type": "instance",
+            "uuid": "5696c560-981f-4269-8369-bef02d0533c9",
+            "value": "rating"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-04-24T10:39:47.386400-04:00",
+            "extras": {
+            },
+            "index": 18,
+            "label": "neutralVideo",
+            "originalEndDatetime": "2024-04-24T10:39:47.387000-04:00",
+            "originalStartDatetime": "2024-04-24T10:39:47.387000-04:00",
+            "port": "psychopy",
+            "startDatetime": "2024-04-24T10:39:47.386400-04:00",
+            "type": "instance",
+            "uuid": "9851bd6c-819d-43ed-80d1-60378744fd49",
+            "value": "neutralVideo"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-04-24T10:40:52.530710-04:00",
+            "extras": {
+            },
+            "index": 19,
+            "label": "videos\\7 disgusted\\trainspotting.mp4",
+            "originalEndDatetime": "2024-04-24T10:40:52.531000-04:00",
+            "originalStartDatetime": "2024-04-24T10:40:52.531000-04:00",
+            "port": "psychopy",
+            "startDatetime": "2024-04-24T10:40:52.530710-04:00",
+            "type": "instance",
+            "uuid": "281fcaae-602e-4044-8b04-c59e76969f1b",
+            "value": "videos\\7 disgusted\\trainspotting.mp4"
+        }
+    ],
+    "connectionType": "dongle",
+    "demographics": {
+        "birthday": "1984-01-01",
+        "countryOfInfluence": {
+            "iso": "IN",
+            "printable": "India"
+        },
+        "countryOfResidence": {
+            "iso": "US",
+            "printable": "United States of America"
+        },
+        "education": "Doctoral degree",
+        "gender": "F",
+        "handedness": "Right",
+        "languageAbility": "Multilingual",
+        "meditation": {
+            "answer": true,
+            "duration_frequency": "Day",
+            "duration_minute": 60,
+            "length": 0,
+            "length_unit": "Years"
+        },
+        "musicalAbility": "None",
+        "profession": "Education and training"
+    },
+    "exportApp": "com.emotiv.emotivpro",
+    "exportTime": "2024-04-24T10:52:42.022-04:00",
+    "headsetType": "EPOCFLEX",
+    "mappings": {
+        "CMS": "TP9",
+        "DRL": "TP10",
+        "LA": "C3",
+        "LB": "T7",
+        "LC": "FC1",
+        "LD": "FC5",
+        "LE": "FT9",
+        "LF": "F3",
+        "LG": "F7",
+        "LH": "Fp1",
+        "LJ": "Pz",
+        "LK": "Cz",
+        "LL": "O1",
+        "LM": "PO9",
+        "LN": "P3",
+        "LO": "P7",
+        "LP": "CP1",
+        "LQ": "CP5",
+        "RA": "C4",
+        "RB": "Fz",
+        "RC": "FC2",
+        "RD": "FC6",
+        "RE": "FT10",
+        "RF": "F4",
+        "RG": "F8",
+        "RH": "Fp2",
+        "RJ": "Oz",
+        "RK": "T8",
+        "RL": "O2",
+        "RM": "PO10",
+        "RN": "P4",
+        "RO": "P8",
+        "RP": "CP2",
+        "RQ": "CP6"
+    },
+    "montageType": "UNKNOWN",
+    "recordId": "02354b4b-7d60-4bba-abbe-6437db899b7b",
+    "user": "mvimalcruz"
+}
